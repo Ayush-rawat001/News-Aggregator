@@ -43,4 +43,4 @@ news-aggregator/
 ├── assets/
 │   └── logo.jpg       # Application logo
 └── README.md          # Project documentation
-``` 
+```
